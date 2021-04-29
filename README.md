@@ -1,4 +1,4 @@
- <img src="/header.png"alt="Jaime's header "/>
+ # Jaime Andres Velez Rojas :v:
  <a href="https://linkedin.com/in/jaime-andres-velez-rojas/">
   <img align="left" alt="Jaime's Linkdein" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,7 +14,6 @@
 </a>
 <br/>
 <br/>
-
 
 ## About :sunglasses:
 Through my experience in web development I've realized my interest in UX and UI, because I like to create unique visual experiences, without mention my curiosity in understanding technologies in the back-end and how these are integrated through the development. Adaptability and fellowship are skills that identify me in my work and social environment.
