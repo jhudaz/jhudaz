@@ -1,4 +1,5 @@
  <img src="/header.png"alt="Jaime's header "/>
+ <br/>
  <a href="https://linkedin.com/in/jaime-andres-velez-rojas/">
   <img align="left" alt="Jaime's Linkdein" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
