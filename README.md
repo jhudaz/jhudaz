@@ -24,6 +24,7 @@ I'm interested in Gamification, machine learning, and tech communities.
 
 ## Technologies :fire:
 :heavy_check_mark: Javascript
+<br/>
 :heavy_check_mark: HTML5 
 :heavy_check_mark: CSS3
 :heavy_check_mark: PostgreSQL
