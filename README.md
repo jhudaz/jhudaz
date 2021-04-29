@@ -4,12 +4,15 @@
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaimeandresvel7) 
- [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@javelez93)
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaime-andres-velez-rojas/)
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jandresvr92)
- [![Visits Badge](https://badges.pufler.dev/visits/jhudaz/jhudaz?style=for-the-badge)](https://github.com/jhudaz/jhudaz)
+ 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jaimeandresvel7) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@javelez93)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaime-andres-velez-rojas/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jandresvr92)
+[![Visits Badge](https://badges.pufler.dev/visits/jhudaz/jhudaz?style=for-the-badge)](https://github.com/jhudaz/jhudaz)
+
 </p>
+
 </details>
 
 ## About :sunglasses:
