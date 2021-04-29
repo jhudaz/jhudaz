@@ -37,7 +37,7 @@ I'm interested in Gamification, machine learning, and tech communities.
 <br/>
 :heavy_check_mark: React
 
-<div style="display:flex; justify-content:space-evenly">
+<div style="border:1px solid red; display:flex;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhudaz&theme=vue&hide=glsl,python" />
   <img src="https://github-readme-stats.vercel.app/api?username=jhudaz&&show_icons=true&theme=vue&line_height=27&v=5" alt="Jaime's GitHub Stats" />
 </div>
