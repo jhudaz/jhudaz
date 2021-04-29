@@ -36,20 +36,18 @@ I'm interested in Gamification, machine learning, and tech communities.
 :heavy_check_mark: Vue
 <br/>
 :heavy_check_mark: React
-
+<br/>
 ## Git status :bar_chart:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhudaz&show_icons=true&locale=en&layout=compact&theme=vue" alt="languages" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhudaz&show_icons=true&locale=en&theme=vue" alt="GitHub stats" width="410" /></p>
-<br><br><br><br><br>
-
-
+<br/>
+<br/>
 ## Visitor count :eyes:
 <p align="center"> 
-  
   <br/>
   <img src="https://profile-counter.glitch.me/jhudaz/count.svg" />
 </p>
-
+<br/>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
