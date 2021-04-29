@@ -20,8 +20,6 @@
 Through my experience in web development I've realized my interest in UX and UI, because I like to create unique visual experiences, without mention my curiosity in understanding technologies in the back-end and how these are integrated through the development. Adaptability and fellowship are skills that identify me in my work and social environment.
 I'm interested in Gamification, machine learning, and tech communities. 
 
-
-
 ## Technologies :fire:
 :heavy_check_mark: Javascript
 <br/>
@@ -39,20 +37,15 @@ I'm interested in Gamification, machine learning, and tech communities.
 <br/>
 :heavy_check_mark: React
 
-<a href="https://github.com/ashwanisng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhudaz&theme=highcontrast&hide=glsl,python" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=jhudaz&&show_icons=true&theme=highcontrast&line_height=27&v=5" alt="Jaime's GitHub Stats" />
-
-
-
+<div style="display:flex; align-items:flex-start; justify-content:space-evenly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhudaz&theme=vue&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhudaz&&show_icons=true&theme=vue&line_height=27&v=5" alt="Jaime's GitHub Stats" />
+</div>
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jhudaz/count.svg" />
 </p>
-
 
 <div align="center">
 
