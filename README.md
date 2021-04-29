@@ -1,14 +1,14 @@
- ![alt text](https://github.com/jhudaz/jhudaz/blob/main/header.png?raw=true)
- # Welcome to my GitHub :v:
- <a href="https://linkedin.com/in/jaime-andres-velez-rojas/">
-  <img align="left" alt="Jaime's Linkdein" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+![alt text](https://github.com/jhudaz/jhudaz/blob/main/header.png?raw=true)
+# Welcome to my GitHub :v:
+<a href="https://linkedin.com/in/jaime-andres-velez-rojas/">
+ <img align="left" alt="Jaime's Linkdein" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
- <a href="https://twitter.com/jaimeandresvel7">
-  <img align="left" alt="Jaime's Twitter" style="margin-right:0.5em" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/jaimeandresvel7">
+ <img align="left" alt="Jaime's Twitter" style="margin-right:0.5em" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://github.com/jhudaz">
-  <img align="left" alt="Jaime's Github" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <img align="left" alt="Jaime's Github" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/jandresvr92">
   <img align="left" alt="Jaime's Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -37,12 +37,15 @@ I'm interested in Gamification, machine learning, and tech communities.
 <br/>
 :heavy_check_mark: React
 
+## Git status :bar_chart:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhudaz&show_icons=true&locale=en&layout=compact&theme=vue" alt="languages" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhudaz&show_icons=true&locale=en&theme=vue" alt="GitHub stats" width="410" /></p>
 <br><br><br><br><br>
 
+<hr/>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
+  <br/>
   <img src="https://profile-counter.glitch.me/jhudaz/count.svg" />
 </p>
 
