@@ -37,10 +37,9 @@ I'm interested in Gamification, machine learning, and tech communities.
 <br/>
 :heavy_check_mark: React
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhudaz&theme=vue&hide=glsl,python" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhudaz&&show_icons=true&theme=vue&line_height=27&v=5" alt="Jaime's GitHub Stats" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhudaz&show_icons=true&locale=en&layout=compact&theme=vue" alt="languages" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhudaz&show_icons=true&locale=en&theme=vue" alt="GitHub stats" width="410" /></p>
+<br><br><br><br><br>
 
 <p align="center"> 
   Visitor count<br>
