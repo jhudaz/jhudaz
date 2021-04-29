@@ -1,14 +1,14 @@
 ![alt text](https://github.com/jhudaz/jhudaz/blob/main/header.png?raw=true)
 # Welcome to my GitHub :v:
 <a href="https://linkedin.com/in/jaime-andres-velez-rojas/">
- <img align="left" alt="Jaime's Linkdein" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <img align="left" alt="Jaime's Linkdein" style="margin-right:0.2em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/jaimeandresvel7">
- <img align="left" alt="Jaime's Twitter" style="margin-right:0.5em" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <img align="left" alt="Jaime's Twitter" style="margin-right:0.2em" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://github.com/jhudaz">
- <img align="left" alt="Jaime's Github" style="margin-right:0.5em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <img align="left" alt="Jaime's Github" style="margin-right:0.2em" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/jandresvr92">
   <img align="left" alt="Jaime's Instagram"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
