@@ -42,9 +42,10 @@ I'm interested in Gamification, machine learning, and tech communities.
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jhudaz&show_icons=true&locale=en&theme=vue" alt="GitHub stats" width="410" /></p>
 <br><br><br><br><br>
 
-<hr/>
+
+## Visitor count :eyes:
 <p align="center"> 
-  Visitor count
+  
   <br/>
   <img src="https://profile-counter.glitch.me/jhudaz/count.svg" />
 </p>
