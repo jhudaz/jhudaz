@@ -25,15 +25,19 @@ I'm interested in Gamification, machine learning, and tech communities.
 ## Technologies :fire:
 :heavy_check_mark: Javascript
 <br/>
-:heavy_check_mark: HTML5 
+:heavy_check_mark: HTML5
+<br/>
 :heavy_check_mark: CSS3
+<br/>
 :heavy_check_mark: PostgreSQL
+<br/>
 :heavy_check_mark: MongoDB
+<br/>
 :heavy_check_mark: Node
+<br/>
 :heavy_check_mark: Vue
+<br/>
 :heavy_check_mark: React
-
-
 
 <a href="https://github.com/ashwanisng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhudaz&theme=highcontrast&hide=glsl,python" />
